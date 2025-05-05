@@ -9,7 +9,7 @@
 
 
 
-## Instalación
+## Installl
 
 $ npm install
 
@@ -28,9 +28,14 @@ $ php artisan serve
 $ npm run dev
 
 
-Usuario: admin@admin.com
+User: admin@admin.com
 password: 123456789
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/c569cf6a-9d35-43ac-9a69-af45591d9a74)
+
+![image](https://github.com/user-attachments/assets/a056e767-82e6-4b0a-8b0a-713e0d2ff7b3)
 
 ## About Laravel
 
